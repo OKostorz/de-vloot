@@ -1,0 +1,90 @@
+body {
+    margin: 0px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
+    font-family: Arial, sans-serif;
+    background-repeat: no-repeat;
+    background-image: url(IMG/strip.png);
+    background-position: 0px 251px;
+}
+
+#container {
+    background-color: #FFF;
+    width: 800px;
+    margin: 0 auto;
+    position: relative;
+    top: -21px;
+}
+
+#heading {
+    background-image: url(IMG/achter1.jpg);
+    background-size: contain;
+    height: 249px;
+    padding: 23px;
+    padding-left: 25px;
+    padding-bottom: 0px;
+}
+nav {
+    margin: 130px 0px;
+
+}
+
+nav a {
+    padding: 13px;
+    color: white;
+    font-size: 13px;
+    text-decoration: none;
+}
+
+nav a:hover {
+    color: #84e1e1;
+}
+
+nav a:nth-child(1){
+    padding-left: 0;
+}
+
+h1 {
+    font-size: 30px;
+    font-weight: bolder;
+    margin-bottom: 0px;
+}
+
+p {
+    font-size: 17px;
+    margin-top: 0px;
+}
+
+#rest {
+    padding: 12px;
+    padding-top: 0px;
+}
+
+.top-left {
+    float: left;
+    margin-right: 16px;
+    margin-bottom: 32px;
+    margin-top: 10px;
+}
+
+.right {
+    float: right;
+    margin-left: 16px;
+    margin-bottom: 32px;
+    margin-top: 20px;
+    margin-right: 10px;
+}
+
+
+.bottom-left {
+    float: left;
+    margin-right: 16px;
+    margin-top: 15px;
+}
+
+.bottom-right {
+    float: right;
+    margin-right: 16px;
+    margin-top: 15px;
+    
+}
+}
